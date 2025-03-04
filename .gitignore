@@ -1,2 +1,11 @@
 .timetracker
 how_to_guide.md
+api_keys.py
+__pycache__/*
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+__pycache__
