@@ -1,4 +1,8 @@
+# these datasets are kinda shit, please don't use them unless you reallt can't make or find something better. 
+
 # power-propensity-evals
+
+
 
 Making evals for 
     - Propensity to follow the law instead of seek power 
